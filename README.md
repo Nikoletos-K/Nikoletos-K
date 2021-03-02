@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DIT) of National University of Athens(UOA). 
+My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
-## Find me on
+##  📫 Find me on
 
 [![LinkedIn][3.2]][3] [![WhatsApp][3.3]][4] [![GMail][3.4]][5]
 
