@@ -47,7 +47,15 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)
+![](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white)
+![](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)
+![](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -78,7 +86,7 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 [2]: https://github.com/Nikoletos-K
 [3]: https://www.linkedin.com/in/konstantinos-nikoletos/
 [4]: https://www.linkedin.com/in/konstantinos-nikoletos/
-[5]: https://www.linkedin.com/in/konstantinos-nikoletos/
+[5]: mailto:nikoletos.konstantinos99@gmail.com
 
 
 <!-- Resources -->
