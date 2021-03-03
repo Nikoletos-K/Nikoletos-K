@@ -28,14 +28,7 @@ Here are some ideas to get you started:
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
-
-
-## :point_right: About Me
-&nbsp;&nbsp;&nbsp; :school::computer: &nbsp;Currently I am a computer science student (batchelor degree). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:exclamation::bulb: &nbsp;Researching Entity Resolution problems .\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017.
+&nbsp;&nbsp;&nbsp;:link: &nbsp;Contact me on:
 
 <p align="center">
     <a href="https://github.com/Nikoletos-K"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,6 +36,13 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
   <a href="https://www.linkedin.com/in/konstantinos-nikoletos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## :point_right: About Me
+&nbsp;&nbsp;&nbsp; :school::computer: &nbsp;Currently I am a computer science student (batchelor degree). \
+&nbsp;&nbsp;&nbsp;:exclamation::bulb: &nbsp;Researching Entity Resolution problems .\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
+&nbsp;&nbsp;&nbsp;:earth_africa::blue_book: &nbsp;History enthusiast.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017.
 
 
 
