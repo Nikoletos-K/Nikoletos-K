@@ -32,7 +32,7 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 <hr/>
 
 ## :point_right: About Me
-&nbsp;&nbsp;&nbsp; :school::computer: &nbsp;Currently I study computer science (batchelor degree). \
+&nbsp;&nbsp;&nbsp; :school::computer: &nbsp;Currently I am a computer science student (batchelor degree). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:exclamation::bulb: &nbsp;Researching Entity Resolution problems .\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
