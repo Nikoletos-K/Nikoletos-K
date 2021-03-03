@@ -31,7 +31,7 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 
 <hr/>
 
-## :point_right: &nbsp;About Me
+## :point_right: About Me
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently student of Computer Science\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:exclamation: &nbsp;Currently researching Entity Resolution problems .\
@@ -47,7 +47,7 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 <hr/>
 
 
-## :heart: &nbsp; Favorite Languages
+## :heart: Favorite Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
