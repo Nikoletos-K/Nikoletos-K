@@ -29,13 +29,30 @@ Here are some ideas to get you started:
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
-##  📫 Find me on
+<hr/>
 
-[![LinkedIn][3.2]][3] [![WhatsApp][3.3]][4] [![GMail][3.4]][5]
+## :point_right: &nbsp;About Me
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently student of Computer Science\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:exclamation: &nbsp;Currently researching Entity Resolution problems .\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017.
 
 
+<p align="center">
+  <a href="mailto:nikoletos.konstantinos99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/konstantinos-nikoletos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-## 🔧 Technologies & Tools
+<hr/>
+
+
+## :heart: &nbsp; Favorite Languages
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 🔧 Main tech knowledge
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,11 +71,9 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 ![](https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white)
 ![](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)
 ![](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
-![](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Statistics
 
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&theme=default" />
@@ -66,6 +81,13 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=default" alt="GitHub Stats" />
 </a>
+
+<hr/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Nikoletos-K&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/Nikoletos-K/Nikoletos-K?color=black&logo=github" />
+</p>
 
 <!-- links to social media icons -->
 
