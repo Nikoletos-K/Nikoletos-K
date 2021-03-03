@@ -76,10 +76,10 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 ## &#x1f4c8; GitHub Statistics
 
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&theme=algolia" />
 </a>
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=default" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=algolia" alt="GitHub Stats" />
 </a>
 
 <hr/>
