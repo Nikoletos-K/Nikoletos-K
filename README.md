@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
-<hr/>
+
 
 ## :point_right: About Me
 &nbsp;&nbsp;&nbsp; :school::computer: &nbsp;Currently I am a computer science student (batchelor degree). \
@@ -38,7 +37,6 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017.
 
-
 <p align="center">
     <a href="https://github.com/Nikoletos-K"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nikoletos.konstantinos99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,7 +44,6 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
     <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr/>
 
 
 ## :heart: Favorite Languages
