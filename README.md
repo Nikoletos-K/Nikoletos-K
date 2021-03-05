@@ -71,7 +71,9 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 ![](https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white)
 ![](https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white)
 ![](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
-
+![](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
+![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 
 ## &#x1f4c8; GitHub Statistics
 
