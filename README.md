@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 -->
 ---
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! 
 My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
 &nbsp;&nbsp;&nbsp;:link: &nbsp;Contact me on:
@@ -71,7 +71,7 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
     <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## :point_right: About Me
+## :point_right: About Me 
 &nbsp;&nbsp;&nbsp; :school::computer: &nbsp;Currently I am a computer science student (batchelor degree). \
 &nbsp;&nbsp;&nbsp;:exclamation::bulb: &nbsp;Researching Entity Resolution problems .\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
@@ -79,7 +79,7 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017.
 
 
-## 🔧 Main tech knowledge
+## <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px"> Main tech knowledge
 
 <p align="center">
     <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
