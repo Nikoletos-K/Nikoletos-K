@@ -71,7 +71,7 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
     <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## :point_right: About Me 
+## :information_source: About Me 
 &nbsp;&nbsp;&nbsp;:school::computer: &nbsp;Currently I am a computer science student (batchelor degree). \
 &nbsp;&nbsp;&nbsp;:exclamation::bulb: &nbsp;Researching Entity Resolution problems .\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
