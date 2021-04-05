@@ -76,7 +76,6 @@ My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm fro
 &nbsp;&nbsp;&nbsp;:exclamation::bulb: &nbsp;Researching Entity Resolution problems .\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
 &nbsp;&nbsp;&nbsp;:earth_africa::blue_book: &nbsp;History enthusiast.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017.
 
 
 ## <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px"> Main tech knowledge
