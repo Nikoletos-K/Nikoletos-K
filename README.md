@@ -57,15 +57,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 -->
-<p align="center">
+<p align="right">
   <a href="https://github.com/Nikoletos-K/Nikoletos-K/blob/main/FrenchREADME.md">
-    <img src="https://www.mrflag.com/wp-content/uploads/2018/10/France-Flag.png" width="30"/>
+    <img src="https://www.mrflag.com/wp-content/uploads/2018/10/France-Flag.png" width="20"/>
   </a>&nbsp;&nbsp;
     <a href="https://github.com/Nikoletos-K/Nikoletos-K/blob/main/README.md">
-    <img src="http://sites1.christophlutz.co.uk/gbmag/wp-content/uploads/2017/01/UK-flag-union-jack-1024x683.jpg" width="30"/>
+    <img src="http://sites1.christophlutz.co.uk/gbmag/wp-content/uploads/2017/01/UK-flag-union-jack-1024x683.jpg" width="20"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Nikoletos-K/Nikoletos-K/blob/main/ItalianREADME.md">
-    <img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-xl.png" width="30"/>
+    <img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-xl.png" width="20"/>
   </a>&nbsp;&nbsp;
 </p>
 
