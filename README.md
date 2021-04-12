@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 -->
+
+<center><img src="./images/logo-blue-white-2.png" align="center" ></center>
+
+
 ---
 # Hi there! 
 My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
