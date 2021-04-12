@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 -->
-
-<center><img src="./images/logo-blue-white-2.png" align="center" style="width: 500px"></center>
-
+<p align="center">
+  <img src="./images/logo-blue-white-3.png" >
+</p>
 
 ---
 # Hi there! 
