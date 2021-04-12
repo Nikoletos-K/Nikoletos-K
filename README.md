@@ -67,6 +67,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/Nikoletos-K/Nikoletos-K/blob/main/ItalianREADME.md">
     <img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-xl.png" width="20"/>
   </a>&nbsp;&nbsp;
+  <a href="https://github.com/Nikoletos-K/Nikoletos-K/blob/main/GermanREADME.md">
+    <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-xl.png" width="20"/>
+  </a>&nbsp;&nbsp;
 </p>
 
 
