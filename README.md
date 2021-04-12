@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 -->
 
-<center><img src="./images/logo-blue-white-2.png" align="center" ></center>
+<center><img src="./images/logo-blue-white-2.png" align="center" style="width: 500px"></center>
 
 
 ---
