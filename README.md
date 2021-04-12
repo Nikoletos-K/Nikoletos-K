@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="./images/logo-blue-white-3.png" >
 </p>
 
----
+
 # Hi there! 
 My name is Konstantinos Nikoletos and I'm a software developer-engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
