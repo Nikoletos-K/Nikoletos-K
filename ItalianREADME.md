@@ -4,6 +4,7 @@
 
 
 &nbsp;&nbsp;Mi chiamo Konstantinos Nikoletos e sono un ingegnere del software. Vengo dalla Grecia, vivo ad Atene e attualmente sono uno studente universitario presso il dipartimento di informatica e telecomunicazioni (DiT) dell'Università nazionale di Atene (UoA).
+
 &nbsp;&nbsp;&nbsp;:link: &nbsp;Contattami su:
 
 <p align="center">
