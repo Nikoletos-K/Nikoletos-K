@@ -97,9 +97,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   -->
-  <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing">
-      <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <!--
@@ -117,6 +115,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 -->
+
+<details>
+<summary> <img src="https://i.pinimg.com/originals/3d/88/e5/3d88e54dde700b23d4fa4c55f8221372.gif" width="40px"> <b>Resume</b> </summary>
+
+<br>  
+<p align="center">
+ <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing">
+      <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <p>
+</details>
 
 <details>
 <summary> <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px"> <b>Main tech knowledge</b> </summary>
