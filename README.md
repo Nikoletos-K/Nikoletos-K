@@ -80,7 +80,8 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
-&nbsp;&nbsp;&nbsp;:link: &nbsp;Contact me on:
+
+<br>  
 
 <p align="center">
   <a href="https://nikoletos-k.github.io">
