@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 <br>  
 <p align="center">
  <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing">
-      <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=green" />
+      <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=darkgreen" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <p>
 </details>
