@@ -197,16 +197,23 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&theme=algolia&layout=compact" />
 </a>
 
+<br>
+
+<br>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nikoletos-K&style=plastic&label=Views"><img> &nbsp;&nbsp;&nbsp;
+<img src="https://badges.pufler.dev/visits/Nikoletos-K/Nikoletos-K?color=black&logo=github" /><img>  
+</p>
+
 </details>
 
 
 
 <hr/>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=Nikoletos-K&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/Nikoletos-K/Nikoletos-K?color=black&logo=github" />
-</p>
+
 
 <!-- links to social media icons -->
 
