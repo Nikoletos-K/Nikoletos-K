@@ -72,22 +72,19 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-
-<p align="center">
-  <img src="./images/logo-blue-white-3.png" >
-</p>
-
+<a href="https://nikoletos-k.github.io">
+  <p align="center">
+    <img src="./images/logo-blue-white-3.png" >
+  </p>
+</a>
 
 &nbsp;&nbsp;My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
 
 &nbsp;&nbsp;&nbsp;:link: &nbsp;Contact me on:
 
 <p align="center">
-  <a href="https://github.com/Nikoletos-K">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nikoletos_konstantinos@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <a href="https://nikoletos-k.github.io">
+      <img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nikoletos.konstantinos99@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
