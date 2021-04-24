@@ -113,7 +113,16 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;:earth_africa::blue_book: &nbsp;History enthusiast.
 -->
 
-## <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px"> Main tech knowledge
+
+<!-- Resources 
+## :heart: Favorite Languages
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+-->
+
+<details>
+<summary> <img src="https://i.pinimg.com/originals/00/94/18/009418460183d05cbbff41179436b3eb.gif" width="30px"> <b>Main tech knowledge</b> </summary>
 
 <p align="center">
     <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
@@ -161,20 +170,20 @@ Here are some ideas to get you started:
     <a><img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" /></a>
 </p>
 
-<!-- Resources 
-## :heart: Favorite Languages
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
--->
+</details>
 
-## &#x1f4c8; GitHub Statistics
+<details>
+<summary> &#x1f4c8;<b> GitHub Statistics</b> </summary>
+
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=27&count_private=true&hide=prs,issues&theme=algolia" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&theme=algolia&layout=compact" />
 </a>
+
+</details>
+
 
 
 <hr/>
