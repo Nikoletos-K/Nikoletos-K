@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </a>
 
 <p align="center">
-  My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in the department of Informatics and Telecommunications (DiT) of National University of Athens (UoA). 
+  My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in Computer Science at the <a href="https://www.di.uoa.gr"> Department of Informatics and Telecommunications of the University of Athens </a>. 
 </p>
 
 <br>  
