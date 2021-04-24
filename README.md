@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <a href="https://nikoletos-k.github.io">
   <p align="center">
-    <img src="./images/cov-22.jpg" >
+    <img src="./images/cov-23.jpg" >
   </p>
 </a>
 
