@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 <h2 align='center'></h2>
 
+<!--
 <p align="right">
   <a href="https://github.com/Nikoletos-K/Nikoletos-K/blob/main/FrenchREADME.md">
     <img src="https://www.mrflag.com/wp-content/uploads/2018/10/France-Flag.png" width="20"/>
@@ -74,7 +75,7 @@ Here are some ideas to get you started:
     <img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-xl.png" width="20"/>
   </a>&nbsp;&nbsp;
 </p>
-
+-->
 
 <a href="https://nikoletos-k.github.io">
   <p align="center">
