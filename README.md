@@ -173,7 +173,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary> <img src="https://cdn.dribbble.com/users/304485/screenshots/3301972/animation_dribbble.gif" width="40px"> <b> GitHub Statistics</b> </summary>
+<summary> <img src="https://media2.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px"> <b> GitHub Statistics</b> </summary>
 
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=27&count_private=true&hide=prs,issues&theme=algolia" alt="GitHub Stats" />
