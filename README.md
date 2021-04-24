@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-<!--
+
 <a href="https://nikoletos-k.github.io">
   <p align="center">
     <img src="./images/logo-blue-white-3.png" >
@@ -80,7 +80,10 @@ Here are some ideas to get you started:
 </a>
 -->
 <h2 align='center'>
-  Hi there 👋 I'm Konstantinos 
+  <!--
+  Hi there! I'm Konstantinos 
+-->
+
 </h2>
 
 <p align="center">
