@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Interested in data engineering, machine learning and artificial intelligence.\
 &nbsp;&nbsp;&nbsp;:earth_africa::blue_book: &nbsp;History enthusiast.
 -->
-
+<br>
 
 <!-- Resources 
 ## :heart: Favorite Languages
@@ -117,12 +117,12 @@ Here are some ideas to get you started:
 -->
 
 <details>
-<summary> <img src="https://i.pinimg.com/originals/3d/88/e5/3d88e54dde700b23d4fa4c55f8221372.gif" width="40px"> <b>Resume</b> </summary>
+<summary>&nbsp; <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/google_drive-512.png" width="20px">&nbsp; <b>Resume</b> </summary>
 
 <br>  
 <p align="center">
  <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing">
-      <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=orange" />
+      <img align="center" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=green" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <p>
 </details>
