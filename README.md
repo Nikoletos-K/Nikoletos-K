@@ -78,13 +78,12 @@ Here are some ideas to get you started:
     <img src="./images/logo-blue-white-3.png" >
   </p>
 </a>
--->
-<h2 align='center'>
-  <!--
-  Hi there! I'm Konstantinos 
--->
 
+<!--
+<h2 align='center'>
+  Hi there! I'm Konstantinos 
 </h2>
+-->
 
 <p align="center">
   My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in Computer Science at the <a href="https://www.di.uoa.gr"> Department of Informatics and Telecommunications of the University of Athens </a>. 
