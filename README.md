@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 -->
+
+<h2 align='center'></h2>
+
 <p align="right">
   <a href="https://github.com/Nikoletos-K/Nikoletos-K/blob/main/FrenchREADME.md">
     <img src="https://www.mrflag.com/wp-content/uploads/2018/10/France-Flag.png" width="20"/>
@@ -211,8 +214,7 @@ Here are some ideas to get you started:
 
 
 
-<hr/>
-
+<h2 align='center'></h2>
 
 
 <!-- links to social media icons -->
