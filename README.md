@@ -134,10 +134,10 @@
 <summary> <img src="https://media2.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px"> <b> GitHub Statistics</b> </summary>
 
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=24&count_private=true&hide=issues&theme=algolia" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=24&count_private=true&hide=issues&hide_border=True" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&line_height=23&theme=algolia&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&line_height=23&layout=compact&hide_border=True" />
 </a>
 
 <br>
