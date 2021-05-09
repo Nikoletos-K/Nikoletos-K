@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://nikoletos-k.github.io">
-      <img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=google&logoColor=white&color=teal" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nikoletos.konstantinos99@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
