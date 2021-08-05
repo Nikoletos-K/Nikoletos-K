@@ -23,7 +23,7 @@
 
 <a href="https://nikoletos-k.github.io">
   <p align="center">
-    <img src="./images/cov-23.jpg" >
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/70f81163393359.5ab4c75066483.gif" width="" height="300px" >
   </p>
 </a>
 
