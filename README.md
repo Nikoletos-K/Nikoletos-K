@@ -23,7 +23,9 @@
 
 <a href="https://nikoletos-k.github.io">
   <p align="center">
-    <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="" height="200px" >
+<!--     <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="" height="200px" > -->
+    <img src="./images/barcode.gif" width="" height="100px" >
+
   </p>
 </a>
 
