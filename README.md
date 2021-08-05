@@ -23,7 +23,7 @@
 
 <a href="https://nikoletos-k.github.io">
   <p align="center">
-    <img src="https://i.pinimg.com/originals/0e/e5/89/0ee58946f8b3832204d39c0b429d8d9a.gif" width="" height="200px" >
+    <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="" height="200px" >
   </p>
 </a>
 
