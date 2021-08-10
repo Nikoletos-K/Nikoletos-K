@@ -2,7 +2,7 @@
 **Nikoletos-K/Nikoletos-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2 align='center'></h2>
+
 
 <!--
 <p align="right">
@@ -21,7 +21,7 @@
 </p>
 -->
 
-
+<h2 align='center'></h2>
 <a href="https://nikoletos-k.github.io">
 <!--   <p> -->
 <!--     <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="200px" height="100px" > -->
