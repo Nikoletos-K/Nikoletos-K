@@ -21,28 +21,21 @@
 </p>
 -->
 
+
 <a href="https://nikoletos-k.github.io">
-  <p align="center">
-    <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="200px" height="100px" >
-<!--     <img src="./images/barcode.gif" width="" height="100px" > -->
+<!--   <p> -->
+<!--     <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="200px" height="100px" > -->
+    <img align="right" src="./images/qrcode_nikoletos-k.github.io.png" width="150px" height="150px" >
 <!--     <img src="https://i.pinimg.com/originals/62/2f/d6/622fd6216caf62cb60d16eaa0d6cd97d.gif" width="" height="200px"> -->
-  </p>
+<!--   </p> -->
 </a>
-
-<!--
-<h2 align='center'>
-  Hi there! I'm Konstantinos 
-</h2>
--->
-
+<!-- <hr> --> <br>
 <p align="center">
-  My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece, living in Athens and currently I am an undergraduate student in Computer Science at the <a href="https://www.di.uoa.gr/en"> Department of Informatics and Telecommunications</a> of the <a href="https://en.uoa.gr">University of Athens.</a> 
+  My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece and currently I am an undergraduate student in Computer Science at the <a href="https://www.di.uoa.gr/en"> DiT</a> of the <a href="https://en.uoa.gr">University of Athens.</a> 
 </p>
 
-<br>  
-
 <p align="center">
-  <a href="https://nikoletos-k.github.io">
+<!--   <a href="https://nikoletos-k.github.io">
       <img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=google-chrome&logoColor=white&color=teal" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nikoletos.konstantinos99@gmail.com">
@@ -50,15 +43,29 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/konstantinos-nikoletos/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--
-  <a href="https://api.whatsapp.com/send?phone=+306976897915">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  -->
-  
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;   -->
+    <a href="https://www.linkedin.com/in/konstantinos-nikoletos/">
+      <img src="./images/linkedin-in-brands.svg" width="25px"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://nikoletos-k.github.io/">
+      <img src="./images/globe-solid.svg" width="25px"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
+        <a href="mailto:nikoletos.konstantinos99@gmail.com/">
+      <img src="./images/envelope-regular.svg" width="25px"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
+<!--
+<h2 align='center'>
+  Hi there! I'm Konstantinos 
+</h2>
+-->
+
+
+
+
+
+<h2 align='center'></h2>
 <!--
 ## :information_source: About Me 
 &nbsp;&nbsp;&nbsp;:school::computer: &nbsp;Currently I am a computer science student (batchelor degree). \
@@ -188,3 +195,5 @@
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- FontAwesome icons: https://fontawesome.com/license -->
+
