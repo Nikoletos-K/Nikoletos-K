@@ -25,7 +25,7 @@
 <a href="https://nikoletos-k.github.io">
 <!--   <p> -->
 <!--     <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="200px" height="100px" > -->
-    <img align="right" src="./images/qrcode_nikoletos-k.github.io.png" width="150px" height="150px" >
+    <img align="right" src="./images/qrcode_nikoletos-k.github.io.png" width="130px" height="130px" >
 <!--     <img src="https://i.pinimg.com/originals/62/2f/d6/622fd6216caf62cb60d16eaa0d6cd97d.gif" width="" height="200px"> -->
 <!--   </p> -->
 </a>
