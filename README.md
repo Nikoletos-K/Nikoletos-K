@@ -53,6 +53,11 @@
         <a href="mailto:nikoletos.konstantinos99@gmail.com/">
       <img src="./images/envelope-regular.svg" width="25px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing/">
+      <img src="./images/google-drive-brands.svg" width="25px"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
+  
+  
 </p>
 
 <!--
@@ -77,9 +82,9 @@
 <!-- <br> -->
 
 
-<details>
-<summary>&nbsp; <img align="center" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/google_drive-512.png" width="20px">&nbsp; <b>Resume</b> </summary>
-
+<!-- <details> -->
+<!-- <summary>&nbsp; <img align="center" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/google_drive-512.png" width="20px">&nbsp; <b>Resume</b> </summary>
+<!-- 
 <br>  
 <p align="center">
  <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing">
@@ -106,8 +111,8 @@
 
 <p align="center">
     <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+    <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a> -->
+<!--     <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 </p>
@@ -138,15 +143,18 @@
 </p>
 
 </details>
-
+ -->
 <details>
-<summary> <img src="https://media2.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px"> <b> GitHub Statistics</b> </summary>
+<!-- <summary> <img src="https://media2.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px"> <b> GitHub Statistics</b> </summary> -->
+<summary> <img src="./images/tools-solid.svg" width="15px"> <b> GitHub Statistics</b> </summary>
 
+  
+  
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=24&count_private=true&hide=issues&hide_border=True" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=24&theme=graywhite&count_private=true&hide=issues&hide_border=True" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&line_height=23&layout=compact&hide_border=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&line_height=23&theme=graywhite&layout=compact&hide_border=True" />
 </a>
 
 <br>
