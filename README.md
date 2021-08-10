@@ -146,7 +146,7 @@
  -->
 <details>
 <!-- <summary> <img src="https://media2.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px"> <b> GitHub Statistics</b> </summary> -->
-<summary> <img src="./images/tools-solid.svg" width="15px"> <b> GitHub Statistics</b> </summary>
+<summary> <b> GitHub Statistics</b> <img align="center" src="./images/tools-solid.svg" width="18px"> </summary>
 
   
   
