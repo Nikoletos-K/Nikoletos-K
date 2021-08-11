@@ -154,7 +154,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoletos-K&show_icons=true&line_height=24&theme=graywhite&count_private=true&hide=issues&hide_border=True" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Nikoletos-K/Nikoletos-K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&line_height=23&theme=graywhite&layout=compact&hide_border=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoletos-K&line_height=23&theme=graywhite&langs_count=2&hide_border=True" />
 </a>
 
 <br>
