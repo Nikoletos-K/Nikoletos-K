@@ -22,16 +22,12 @@
 -->
 
 <h2 align='center'></h2>
-<a href="https://nikoletos-k.github.io">
-<!--   <p> -->
-<!--     <img src="https://outlane.co/wp-content/uploads/2018/05/fin-w-stars.gif" width="200px" height="100px" > -->
+<!-- <a href="https://nikoletos-k.github.io">
     <img align="right" src="./images/qrcode_nikoletos-k.github.io.png" width="130px" height="130px" >
-<!--     <img src="https://i.pinimg.com/originals/62/2f/d6/622fd6216caf62cb60d16eaa0d6cd97d.gif" width="" height="200px"> -->
-<!--   </p> -->
-</a>
+</a> -->
 <!-- <hr> --> <br>
 <p align="center">
-  My name is Konstantinos Nikoletos and I'm a software engineer. I'm from Greece and currently I am an undergraduate student in Computer Science at the <a href="https://www.di.uoa.gr/en"> DiT</a> of the <a href="https://en.uoa.gr">University of Athens.</a> 
+  My name is <a href="https://nikoletos-k.github.io">Konstantinos Nikoletos</a> and I'm a software engineer. Currently I am working as a back-end developer and at the same time I am implementing my bachelor thesis as an undergraduate student in Computer Sciences, at the <a href="https://www.di.uoa.gr/en"> DiT</a> of the <a href="https://en.uoa.gr">University of Athens.</a> 
 </p>
 
 <p align="center">
@@ -53,9 +49,9 @@
         <a href="mailto:nikoletos.konstantinos99@gmail.com/">
       <img src="./images/envelope-regular.svg" width="25px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
-  <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing/">
+<!--   <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing/">
       <img src="./images/google-drive-brands.svg" width="25px"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;   -->
   
   
 </p>
