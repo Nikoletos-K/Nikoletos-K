@@ -22,9 +22,9 @@
 -->
 
 <h2 align='center'></h2>
-<!-- <a href="https://nikoletos-k.github.io">
+<a href="https://nikoletos-k.github.io">
     <img align="right" src="./images/qrcode_nikoletos-k.github.io.png" width="130px" height="130px" >
-</a> -->
+</a>
 <!-- <hr> --> <br>
 <p align="center">
   My name is <a href="https://nikoletos-k.github.io">Konstantinos Nikoletos</a> and I'm a software engineer. Currently I am working as a back-end developer and at the same time I am implementing my bachelor thesis as an undergraduate student in Computer Sciences, at the <a href="https://www.di.uoa.gr/en"> DiT</a> of the <a href="https://en.uoa.gr">University of Athens.</a> 
