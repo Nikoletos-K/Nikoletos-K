@@ -26,11 +26,11 @@
     <img align="right" src="./images/qrcode_nikoletos-k.github.io.png" width="130px" height="130px" >
 </a> -->
 <!-- <hr> --> 
-<p align="right">
+<p align="center">
   <b>Find me on</b>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="right">
+<p align="center">
 <!--   <a href="https://nikoletos-k.github.io">
       <img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=google-chrome&logoColor=white&color=teal" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
