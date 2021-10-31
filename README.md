@@ -27,7 +27,7 @@
 </a> -->
 <!-- <hr> --> 
 <p align="right">
-Find me on&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Find me on</b>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="right">
