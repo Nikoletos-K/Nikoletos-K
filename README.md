@@ -22,15 +22,15 @@
 -->
 
 <h2 align='center'></h2>
-<a href="https://nikoletos-k.github.io">
+<!-- <a href="https://nikoletos-k.github.io">
     <img align="right" src="./images/qrcode_nikoletos-k.github.io.png" width="130px" height="130px" >
-</a>
-<!-- <hr> --> <br>
-<p align="center">
-  My name is <a href="https://nikoletos-k.github.io">Konstantinos Nikoletos</a> and I'm a software engineer. Currently I am working as a back-end developer and at the same time I am implementing my bachelor thesis as an undergraduate student in Computer Sciences, at the <a href="https://www.di.uoa.gr/en"> DiT</a> of the <a href="https://en.uoa.gr">University of Athens.</a> 
+</a> -->
+<!-- <hr> --> 
+<p align="right">
+Find me on&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
+<p align="right">
 <!--   <a href="https://nikoletos-k.github.io">
       <img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=google-chrome&logoColor=white&color=teal" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,13 +41,13 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;   -->
     <a href="https://www.linkedin.com/in/konstantinos-nikoletos/">
-      <img src="./images/linkedin-in-brands.svg" width="25px"/>
+      <img src="./images/linkedin-in-brands.svg" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://nikoletos-k.github.io/">
-      <img src="./images/globe-solid.svg" width="25px"/>
+      <img src="./images/globe-solid.svg" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
         <a href="mailto:nikoletos.konstantinos99@gmail.com/">
-      <img src="./images/envelope-regular.svg" width="25px"/>
+      <img src="./images/envelope-regular.svg" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
 <!--   <a href="https://drive.google.com/file/d/1lcfAdR5ZWo6zbl0yZmtkiTjmhZwxDN9f/view?usp=sharing/">
       <img src="./images/google-drive-brands.svg" width="25px"/>
