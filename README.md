@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;   -->
     <a href="https://www.linkedin.com/in/konstantinos-nikoletos/">
-      <img src="./images/linkedin-in-brands.svg" width="20px"/>
+      <img src="./images/linkedin-brands.svg" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://nikoletos-k.github.io/">
       <img src="./images/globe-solid.svg" width="20px"/>
