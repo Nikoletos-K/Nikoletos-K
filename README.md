@@ -1,3 +1,5 @@
+<h2 align='center'></h2>
+
 <p align="center">
   <b>Find me on</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -17,3 +19,5 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;    
   
 </p>
+
+<h2 align='center'></h2>
