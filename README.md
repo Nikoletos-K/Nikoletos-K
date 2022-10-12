@@ -14,7 +14,7 @@
     <img src="./images/globe-solid.svg" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
-  <a href="mailto:nikoletos.konstantinos99@gmail.com/">
+  <a href="mailto:nikoletos.kon@gmail.com/">
     <img src="./images/envelope-regular.svg" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;    
   
