@@ -7,7 +7,7 @@
 <p align="center">
   
   <a href="https://www.researchgate.net/profile/Konstantinos_Nikoletos">
-    <img src="https://static-00.iconduck.com/assets.00/researchgate-icon-474x512-v64ztjjt.png" width="22px"/>
+    <img src="https://static-00.iconduck.com/assets.00/researchgate-icon-474x512-v64ztjjt.png" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="https://www.linkedin.com/in/konstantinos-nikoletos/">
