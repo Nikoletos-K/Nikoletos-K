@@ -6,8 +6,8 @@
 
 <p align="center">
   
-  <a href="https://www.researchgate.net/profile/Konstantinos_Nikoletos">
-    <img src="./images/icons8-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-24.png" width="20px"/>
+  <a href="https://scholar.google.com/citations?hl=en&user=EHeD3JIAAAAJ">
+    <img src="https://icons-for-free.com/iconfiles/png/512/googlescholar-1324440168880225997.png" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="https://www.linkedin.com/in/konstantinos-nikoletos/">
