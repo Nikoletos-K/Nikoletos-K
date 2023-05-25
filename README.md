@@ -20,7 +20,11 @@
   
   <a href="mailto:nikoletos.kon@gmail.com/">
     <img src="./images/envelope-regular.svg" width="20px"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;    
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
+  
+  <a href="https://www.kaggle.com/nikoletosk/">
+    <img src="./images/kaggle.svg" width="20px"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
 </p>
 
