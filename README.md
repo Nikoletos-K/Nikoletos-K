@@ -7,7 +7,7 @@
 <p align="center">
   
   <a href="https://scholar.google.com/citations?hl=en&user=EHeD3JIAAAAJ">
-    <img src="https://icons-for-free.com/iconfiles/png/512/googlescholar-1324440168880225997.png" width="20px"/>
+    <img src="images/Simpleicons-Team-Simple-Google-scholar.512.png" width="20px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="https://www.linkedin.com/in/konstantinos-nikoletos/">
