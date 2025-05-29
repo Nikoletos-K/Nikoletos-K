@@ -19,7 +19,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="mailto:nikoletos.kon@gmail.com/">
-    <img src="./images/icons/icons8-email-50.png" width="30px"/>
+    <img src="./images/icons/icons8-email-48.png" width="30px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="https://www.kaggle.com/nikoletosk/">
